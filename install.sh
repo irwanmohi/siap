@@ -10,6 +10,7 @@ rm /usr/bin/v2raay
 rm /usr/bin/vleess
 rm /usr/bin/wgr
 clear
+cd
 cd /usr/bin
 wget -q bannerku "https://raw.githubusercontent.com/LolLloLlLolLlLolL-rgb/nyamuk/beta/update/bannerku"
 wget -q -O menu "https://raw.githubusercontent.com/LolLloLlLolLlLolL-rgb/nyamuk/beta/update/menu.sh"
